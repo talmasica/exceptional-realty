@@ -7,4 +7,4 @@ This is an example site for the Intro to front-end web dev course at the Flatiro
 
 # Contact
 
-Email talmasica@gmail.com
+Email heynow@gmail.com
